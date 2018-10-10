@@ -12,7 +12,8 @@ config_version=3
 
 config/name="Acodemia_two"
 run/main_scene="res://main.tscn"
-config/icon="res://icon.png"
+config/use_custom_user_dir=true
+config/icon="res://acdemia_two_icon.png"
 
 [rendering]
 
