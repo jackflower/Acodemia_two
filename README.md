@@ -7,3 +7,4 @@ Repozytorium zawiera gotowe materiały i opracowania do samodzielnej, dodatkowej
 Zajęcia dla tej grupy skupiają się na rozwiązywaniu problemów informatycznych, algorytmicznych, wszelkich innych, które mogą wystąpić w czasie realizacji projektu informatycznego.
 Poznanie rożnych sposobów na osiągnięcie zamierzonego zadania za pomocą różnych narzędzi oraz metod.
 
+![Acodemia logo](https://github.com/jackflower/Acodemia_tutorials/blob/master/graphics/acodemia_logo.png)
